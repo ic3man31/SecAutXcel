@@ -43,6 +43,9 @@ python SecAutXcel.py
     
 9. Check the output Excel file for your processed data.
     
+## License
+
+[LICENSE](LICENSE)
 
 ## About
 

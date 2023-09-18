@@ -12,7 +12,7 @@ This Python script is designed to convert CSV files into Excel (.xlsx) format wh
 
 ````bash
 
-pip -r requirements.txt
+pip install -r requirements.txt
 ````   
 
 ## Getting Started
